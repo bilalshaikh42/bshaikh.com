@@ -60,7 +60,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "Bilal.Shaikh@columbia.edu"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  address = "5042 Wein Hall, 70 Mornindside Drive, New York, NY 10027"
   office_hours =" "
   phone = "732 858 1403"
   skype = ""
@@ -102,7 +102,7 @@ defaultContentLanguageInSubdir = false
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Jan 2, 2006"
   #   Examples: "3:04 pm" or "15:04"
-  time_format = "3:04 PM"
+  time_format = "15:04"
 
   # Show estimated reading time for posts?
   reading_time = true
@@ -219,15 +219,15 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "mailto:test@example.org"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = ""
+ # [[params.social]]
+  #  icon = "twitter"
+   # icon_pack = "fa"
+    #link = ""
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = ""
+ # [[params.social]]
+  #  icon = "google-scholar"
+   # icon_pack = "ai"
+    #link = ""
 
   [[params.social]]
     icon = "github"
@@ -248,10 +248,11 @@ defaultContentLanguageInSubdir = false
   url = "#about"
   weight = 1
 
+
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
+  name = "Resume"
+  url = "#resume"
+  weight = 5
 
 [[menu.main]]
   name = "Posts"
@@ -263,10 +264,6 @@ defaultContentLanguageInSubdir = false
   url = "#projects"
   weight = 4
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
 
 [[menu.main]]
   name = "Contact"
