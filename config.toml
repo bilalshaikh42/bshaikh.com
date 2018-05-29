@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "107907778" 
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "dark"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -217,7 +217,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "bilal.shaikh@columbia.edu"
 
  # [[params.social]]
   #  icon = "twitter"
@@ -233,7 +233,10 @@ defaultContentLanguageInSubdir = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/bilalshaikh42"
-
+ [[params.social]]
+    icon ="linkedin"
+    icon_pack="fa"
+    link="linkedin.com/in/bilalshaikh42/"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
