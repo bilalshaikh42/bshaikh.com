@@ -61,7 +61,7 @@ defaultContentLanguageInSubdir = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "Bilal.Shaikh@columbia.edu"
   address = "5042 Wein Hall, 70 Mornindside Drive, New York, NY 10027"
-  office_hours =" "
+  office_hours =""
   phone = "732 858 1403"
   skype = ""
   telegram = ""
@@ -255,7 +255,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Resume"
   url = "#resume"
-  weight = 5
+  weight = 2
 
 [[menu.main]]
   name = "Posts"
@@ -271,7 +271,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 # Taxonomies.
 [taxonomies]
