@@ -60,7 +60,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "Bilal.Shaikh@columbia.edu"
-  address = "5042 Wein Hall, 70 Mornindside Drive, New York, NY 10027"
+  address = "5042 Wien Hall, 70 Morningside Drive, New York, NY 10027"
   office_hours =""
   phone = "732 858 1403"
   skype = ""
@@ -217,7 +217,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "bilal.shaikh@columbia.edu"
+    link = "mailto:bilal.shaikh@columbia.edu"
 
  # [[params.social]]
   #  icon = "twitter"
