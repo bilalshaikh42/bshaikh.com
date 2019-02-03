@@ -1,0 +1,5 @@
+{{ if .IsNamedParams }}
+<iframe src="https://docs.google.com/gview?url={{.Get "src" }}" style="width:{{.Get "width" }}; height:{{.Get "height"}};" frameborder="0"></iframe>
+{{ else }}
+<iframe src="https://docs.google.com/gview?url={{.Get 0 }}" style="width:{{.Get 1 }}; height:{{.Get 2}};" frameborder="0"></iframe>
+{{ end }} 
