@@ -16,4 +16,4 @@ weight = 20
 +++
 [Download](https://github.com/bilalshaikh42/Resume/raw/master/BilalShaikhCV.pdf)
 
-{{<pdf src="https://github.com/bilalshaikh42/Resume/raw/master/BilalShaikhCV.pdf" width="800px" height="900px">}}
+{{<pdf src="http://github.com/bilalshaikh42/Resume/raw/master/BilalShaikhCV.pdf" width="500px" height="600px">}}
