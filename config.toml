@@ -51,16 +51,16 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Bilal Shaikh"
-  role = "Biochemistry and Computer Science Student"
+  role = "Bioinformatician"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "Bilal Shaikh", url = "https://directory.columbia.edu/people/uni?code=bs2957" } ]
 
-  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "Bilal.Shaikh@columbia.edu"
-  address = "5042 Wien Hall, 70 Morningside Drive, New York, NY 10027"
+  address = ""
   office_hours =""
   phone = "732 858 1403"
   skype = ""
@@ -100,7 +100,7 @@ defaultContentLanguageInSubdir = false
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Jan 2, 2006"
+  date_format = "2006-01-02"
   #   Examples: "3:04 pm" or "15:04"
   time_format = "15:04"
 
