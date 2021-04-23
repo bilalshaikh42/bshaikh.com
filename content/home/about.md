@@ -7,7 +7,7 @@ title: About
 active: true
 author: admin
 design:
-  columns: "2"
+  columns: "1"
   background:
     ? image
 ---
