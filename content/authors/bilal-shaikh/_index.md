@@ -1,6 +1,7 @@
 ---
 title: Bilal Shaikh
 role: "Associate Bioinformatician "
+avatar_filename: profile.png
 bio: Working on developing tools to enable large scale models of biology
 interests:
   - Systems Biology
