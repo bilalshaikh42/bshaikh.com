@@ -3,10 +3,10 @@ title: Bilal Shaikh
 role: "Associate Bioinformatician "
 bio: Working on developing tools to enable large scale models of biology
 interests:
-  - Systems%20Biology
+  - Systems Biology
   - Simulations
   - HPC
-  - Machine%20Learning
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
