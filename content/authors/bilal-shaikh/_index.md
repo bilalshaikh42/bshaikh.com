@@ -15,8 +15,8 @@ social:
     icon_pack: fab
     link: https://twitter.com/bshaikh42
     label: Twitter
-  - icon: google-scholar
-    icon_pack: ai
+  - icon: graduation-cap
+    icon_pack: fas
     link: https://scholar.google.com/citations?user=Z3FDsigAAAAJ&hl=en
     label: Google Scholar
   - icon: github
