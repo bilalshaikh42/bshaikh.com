@@ -5,9 +5,9 @@ headless: true
 weight: 20
 title: About
 active: true
-author: admin
+author: bilal-shaikh
 design:
   columns: "1"
   background:
-    ? image
+    image:
 ---
