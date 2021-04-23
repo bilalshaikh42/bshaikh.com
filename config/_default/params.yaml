@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: Rose
+theme: forest
 day_night: true
 font: ""
 font_size: L
@@ -138,7 +138,7 @@ marketing:
   baidu_site_verification: ""
   baidu_tongji: ""
 cms:
-  branch: master
+  branch: main
   local_backend: true
 icon:
   pack:
