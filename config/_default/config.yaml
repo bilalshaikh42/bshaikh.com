@@ -5,7 +5,7 @@
 
 title: Bilal Shaikh # Website name
 baseurl: "https://bshaikh.com" # Website URL
-copyright: " © {year}  Bilal Shaikh" # Footer text, e.g. '© {year} Me'
+copyright: " © 2020-{year}  Bilal Shaikh" # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
