@@ -2,12 +2,12 @@
 widget: about
 widget_id: about
 headless: true
-weight: 20
+weight: 1
 title: About
 active: true
-author: admin
+author: bilal-shaikh
 design:
   columns: "2"
   background:
-    ? image
+    image:
 ---

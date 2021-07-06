@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: Mr Robot
+theme: my_theme
 day_night: true
-font: "Minimal"
+font: minimal
 font_size: L
 
 # SEO
@@ -63,7 +63,7 @@ address_format: en-us
 
 highlight: true
 highlight_languages:
-  - python, typescript,go
+  - r
 math: true
 diagram: true
 privacy_pack: false
