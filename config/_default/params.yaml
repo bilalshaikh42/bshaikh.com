@@ -7,14 +7,14 @@
 
 theme: Mr Robot
 day_night: true
-font: ""
+font: "Minimal"
 font_size: L
 
 # SEO
 
 site_type: Person
 local_business_type: ""
-org_name: ""
+org_name: "Bilal Shaikh"
 description: "Bilal Shaikh's personal website"
 twitter: "bshaikh42"
 
@@ -63,7 +63,7 @@ address_format: en-us
 
 highlight: true
 highlight_languages:
-  - r
+  - python, typescript,go
 math: true
 diagram: true
 privacy_pack: false
