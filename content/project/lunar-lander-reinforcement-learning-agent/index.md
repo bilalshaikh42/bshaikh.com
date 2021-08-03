@@ -6,7 +6,6 @@ featured: false
 tags:
   - personal
   - learning
-external_link: /project/lunar-lander-reinforcement-learning-agent/
 links: []
 image:
   filename: featured
