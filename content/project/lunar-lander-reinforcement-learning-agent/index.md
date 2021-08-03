@@ -1,9 +1,13 @@
 ---
 title: Lunar Lander Reinforcement Learning Agent
 date: 2021-08-03T17:25:13.778Z
-draft: true
+draft: false
 featured: false
+tags:
+  - personal
+  - learning
 external_link: '""'
+links: []
 image:
   filename: featured
   focal_point: Smart
