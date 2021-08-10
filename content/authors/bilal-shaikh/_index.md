@@ -53,10 +53,9 @@ name: Bilal Shaikh
 highlight_name: true
 email: bilalshaikh42@gmail.com
 ---
-
 I am a biomedical software developer with a background in biochemistry and computer science. My interests are varied, including machine learning, distributed and high-performance computing systems, and molecular and mathematical models of cells and disease. I am interested in developing tools to enable large-scale simulation and analysis of biology through the application of computational technologies, with the ultimate goal of allowing predictive tools that can elucidate molecular pathways and enable personalized medicine.
 
-Currently, I am the lead developer for the BioSimulations project and am working towards a Master’s degree in computer science, focusing on machine learning.
+Currently, I am the lead developer for the [BioSimulations](https://run.biosimulations.org) project and am working towards a Master’s degree in computer science, focusing on machine learning.
 
 <!--- You can view more information about projects that I am working on here todo make projects page -->
 
