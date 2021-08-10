@@ -1,7 +1,6 @@
 ---
 title: Bilal Shaikh
-name: Bilal Shaikh
-role: "Biomedical Software Developer"
+role: Biomedical Software Developer
 bio: Working on developing tools to enable large scale models of biology
 interests:
   - Systems Biology
@@ -30,12 +29,17 @@ social:
     icon_pack: fab
     link: https://twitter.com/bshaikh42
     label: Twitter
+  - display:
+      header: false
+    icon_pack: ai
+    icon: semantic-scholar
+    link: https://www.semanticscholar.org/author/Bilal-Shaikh/1702434054
+    label: Semantic Scholar
 organizations:
   - name: BioSimulations
     url: https://run.biosimulations.org
   - name: Karr Lab
     url: https://karrlab.org
-
 education:
   courses:
     - course: BA in Biochemstry
@@ -44,9 +48,10 @@ education:
     - course: MS in Computer Science
       institution: Georgia Institute of Technology
       year: 2022 (expected)
-email: bilalshaikh42@gmail.com
 superuser: true
+name: Bilal Shaikh
 highlight_name: true
+email: bilalshaikh42@gmail.com
 ---
 
 I am a biomedical software developer with a background in biochemistry and computer science. My interests are varied, including machine learning, distributed and high-performance computing systems, and molecular and mathematical models of cells and disease. I am interested in developing tools to enable large-scale simulation and analysis of biology through the application of computational technologies, with the ultimate goal of allowing predictive tools that can elucidate molecular pathways and enable personalized medicine.
