@@ -5,7 +5,7 @@ headless: true
 weight: 4
 title: Featured Publications
 link_to_archive: true
-subtitle: ""
+subtitle: [View All](/publication)
 active: true
 content:
   page_type: publication
