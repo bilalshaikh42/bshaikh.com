@@ -12,9 +12,10 @@ featured: true
 tags:
   - personal
   - learning
+external_link: /
 links: []
 image:
-  filename: lulnarlander.gif
+  filename: ezgif.com-gif-maker.png
   focal_point: Smart
   preview_only: false
 ---
