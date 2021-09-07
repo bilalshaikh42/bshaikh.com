@@ -4,6 +4,7 @@ widget_id: Featured-Publications
 headless: true
 weight: 4
 title: Featured Publications
+link_to_archive = true
 subtitle: ""
 active: true
 content:
