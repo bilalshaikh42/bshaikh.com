@@ -14,7 +14,7 @@ tags:
   - learning
 links: []
 image:
-  filename: featured.png
+  filename: lulnarlander.gif
   focal_point: Smart
   preview_only: false
 ---
