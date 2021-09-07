@@ -11,8 +11,7 @@ authors:
   - Michael L Blinov
   - Ion I Moraru
   - Jonathan R Karr
-author_notes:
-  - "\"test'"
+author_notes: []
 doi: 10.1093/nar/gkab411
 publication: "*Nucleic Acids Research*"
 abstract: Comprehensive, predictive computational models have significant
@@ -37,7 +36,8 @@ abstract: Comprehensive, predictive computational models have significant
 draft: false
 url_pdf: https://doi.org/10.1093%2Fnar%2Fgkab411
 featured: true
-tags: []
+tags:
+  - Academic
 categories: []
 projects:
   - Biosimulations
@@ -46,10 +46,9 @@ summary: RunBioSimulations is an extensible, standards-driven web application
   algorithms, and model formats and visualizing and sharing their results.
 lastmod: 2021-07-06T12:54:13-04:00
 image:
-  caption: Graphical Abstract RunBioSimulations is an extensible, standards-driven
-    web application for executing models across a broad range of modeling
-    frameworks, simulation algorithms, and model formats and visualizing and
-    sharing their results
+  caption: RunBioSimulations is an extensible, standards-driven web application
+    for executing models across a broad range of modeling frameworks, simulation
+    algorithms, and model formats and visualizing and sharing their results
   focal_point: Right
   preview_only: false
 date: 2021-05-01
