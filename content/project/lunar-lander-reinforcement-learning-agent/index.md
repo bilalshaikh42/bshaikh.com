@@ -6,7 +6,7 @@ summary: >+
   using  [Double DQN](https://arxiv.org/pdf/1509.06461.pdf),  a Q-learning
   algorithm that uses two deep neural networks to estimate the value of each
   action in a given state.
-
+math: true
 draft: false
 featured: true
 tags:
