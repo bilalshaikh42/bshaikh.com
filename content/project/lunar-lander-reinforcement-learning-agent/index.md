@@ -12,7 +12,6 @@ featured: true
 tags:
   - personal
   - learning
-external_link: /
 links: []
 image:
   filename: ezgif.com-gif-maker.png
