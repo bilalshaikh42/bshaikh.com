@@ -4,9 +4,13 @@ widget_id: Featured-Publications
 headless: true
 weight: 4
 title: Featured Publications
-subtitle: "[View All](/publication)"
+
+  
+subtitle: ""
 active: true
 content:
+  archive:
+    enable: true
   page_type: publication
   count: 0
   filters:

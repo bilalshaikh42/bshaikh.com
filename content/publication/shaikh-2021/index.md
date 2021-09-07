@@ -34,7 +34,6 @@ abstract: Comprehensive, predictive computational models have significant
   stimulate collaboration, and ultimately facilitate the creation of more
   predictive models.
 draft: false
-url_pdf: https://doi.org/10.1093%2Fnar%2Fgkab411
 featured: true
 tags:
   - Academic
@@ -53,4 +52,14 @@ image:
   preview_only: false
 date: 2021-05-01
 publishDate: 2021-07-06T16:54:13.715344Z
+links:
+  - name: Code
+    url: https://github.com/biosimulations/biosimulations
+    icon: github
+    icon_pack: "fab"
+    url: https://run.biosimulations.org
+  - icon: link
+    icon_pack: fas
+    name: Web
+    url: https://run.biosimulations.org
 ---
