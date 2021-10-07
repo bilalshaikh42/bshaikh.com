@@ -30,22 +30,21 @@ publishDate: 2021-10-07T23:25:00.792Z
 draft: false
 featured: false
 authors:
-  - Shaikh
-  - Bilal (Icahn School of Medicine at Mount Sinai);  Freiburger
-  - Andrew Philip (University of Victoria); Konig
-  - Matthias (Humboldt University); Bergmann
-  - Frank T. (Heidelberg University
-  - California Institute of Technology); Nickerson
-  - David P. (University of Auckland); Sauro
-  - Herbert M. (University of Washington); Blinov
-  - Michael L. (University of Connecticut School of Medicine); Smith
-  - Lucian P. (University of Washington); Moraru
-  - Ion I. (University of Connecticut School of Medicine); Karr
-  - Jonathan R. (Icahn School of Medicine at Mount Sinai);
-projects:
-  - biosimulations
+  - Bilal Shaikh
+  - A. Freiburger
+  - Matthias Konig
+  - Frank T. Bergmann
+  - D. Nickerson
+  - H. Sauro
+  - M. Blinov
+  - Lucian P. Smith
+  - I. Moraru
+  - Jonathan R. Karr
+projects: []
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+Availability:
+The validator is freely available as a webform, HTTP API, command-line program, and Python package at https://run.biosimulations.org/utils/validate and https://pypi.org/project/biosimulators-utils. The validator is also embedded into interfaces to 19 BioSimulators simulation tools. The source code is openly available at https://github.com/biosimulators/biosimulators_utils. 
