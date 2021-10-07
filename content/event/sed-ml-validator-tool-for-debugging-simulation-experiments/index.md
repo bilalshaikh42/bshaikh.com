@@ -29,6 +29,19 @@ event_url: https://combine-org.github.io/events/
 publishDate: 2021-10-07T23:25:00.792Z
 draft: false
 featured: false
+authors:
+  - Shaikh
+  - Bilal (Icahn School of Medicine at Mount Sinai);  Freiburger
+  - Andrew Philip (University of Victoria); Konig
+  - Matthias (Humboldt University); Bergmann
+  - Frank T. (Heidelberg University
+  - California Institute of Technology); Nickerson
+  - David P. (University of Auckland); Sauro
+  - Herbert M. (University of Washington); Blinov
+  - Michael L. (University of Connecticut School of Medicine); Smith
+  - Lucian P. (University of Washington); Moraru
+  - Ion I. (University of Connecticut School of Medicine); Karr
+  - Jonathan R. (Icahn School of Medicine at Mount Sinai);
 projects:
   - biosimulations
 image:
