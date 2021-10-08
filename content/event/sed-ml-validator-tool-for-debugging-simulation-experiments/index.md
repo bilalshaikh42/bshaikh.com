@@ -16,8 +16,8 @@ abstract: >
   developing more predictive simulations and that the validator will help
   increase the adoption and interoperability of SED-ML.
 location: Online
-date: 2021-10-11T16:00:00.000Z
-date_end: 2021-10-11T16:20:00.000Z
+date: 2021-10-11T23:00:00.000Z
+date_end: 2021-10-11T23:20:00.000Z
 all_day: false
 links:
   - url: https://sched.co/o3h0
