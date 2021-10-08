@@ -20,7 +20,7 @@ abstract: More comprehensive and more predictive models of cells could enable
   users a unified platform to share, discover, run, and visualize biological
   models across various modeling scales, formats, frameworks, and algorithms.
 location: Online
-date: 2021-10-11T023:00:00.000Z
+date: 2021-10-11T23:00:00.000Z
 date_end: 2021-10-11T23:20:00.000Z
 all_day: false
 links:
@@ -30,7 +30,6 @@ links:
     icon: ""
 event: COMBINE 2021
 event_url: https://combine-org.github.io/events/
-publishDate: 2021-10-07T23:44:43.073Z
 draft: false
 featured: false
 authors:
