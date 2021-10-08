@@ -3,8 +3,8 @@ title: "Lightning Talk: runBiosimulations"
 abstract: "runBioSimulations: an extensible web application that simulates a
   wide range of computational modeling frameworks, algorithms, and formats"
 location: Online
-date: 2021-03-22T23:19:56.839Z
-date_end: 2021-03-22T23:23:00.000Z
+date: 2021-03-22T19:19:56.839Z
+date_end: 2021-03-22T19:23:00.000Z
 all_day: false
 event: HARMONY 2021
 event_url: http://co.mbine.org/events/HARMONY_2021
