@@ -20,8 +20,8 @@ abstract: More comprehensive and more predictive models of cells could enable
   users a unified platform to share, discover, run, and visualize biological
   models across various modeling scales, formats, frameworks, and algorithms.
 location: Online
-date: 2021-10-11T016:00:00.000Z
-date_end: 2021-10-11T16:20:00.000Z
+date: 2021-10-11T023:00:00.000Z
+date_end: 2021-10-11T23:20:00.000Z
 all_day: false
 links:
   - url: https://sched.co/nsUM
