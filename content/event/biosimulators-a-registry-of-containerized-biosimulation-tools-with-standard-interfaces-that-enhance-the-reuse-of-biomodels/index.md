@@ -17,8 +17,8 @@ abstract: >
   cumbersome to install, and it takes significant effort to learn a different
   interface for each tool.
 location: Online
-date: 2020-11-06T03:15:54.491Z
-date_end: 2020-11-06T03:30:00.000Z
+date: 2020-10-05T22:15:54.491Z
+date_end: 2020-10-05T22:30:00.000Z
 all_day: false
 event: COMBINE 2020
 event_url: http://co.mbine.org/events/COMBINE_2020
