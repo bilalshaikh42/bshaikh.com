@@ -1,5 +1,7 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/91f4dc62-647a-489d-849e-605417457026/deploy-status)](https://app.netlify.com/sites/infallible-lewin-e7c48f/deploys)
 # Personal Website
 This is the content for my personal website
+
 ## Wowchemy 
 The site was easily generated using Wowchemy.
 
