@@ -20,6 +20,11 @@ location: Online
 date: 2020-10-05T22:15:54.491Z
 date_end: 2020-10-05T22:30:00.000Z
 all_day: false
+links:
+  - url: https://www.youtube.com/watch?v=sz3OjD5RKHQ
+    icon_pack: fab
+    icon: youtube
+    name: Video Recording
 event: COMBINE 2020
 event_url: http://co.mbine.org/events/COMBINE_2020
 publishDate: 2021-10-07T23:59:54.518Z
